@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs  # create directory "docs"" to save everything. We added this line in Pallisads workshop
 
 website:
   title: "wmeiring.github.io"
